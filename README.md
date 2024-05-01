@@ -1,4 +1,3 @@
-# suzanylimart.github.io
 # Bem-vindo ao Meu Portfólio
 
 Olá! Sou Suzany Lima, conheça meu portfólio!
