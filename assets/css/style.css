@@ -590,7 +590,7 @@ section {
 }
 
 .about .image {
-  background: url("https://isfallinginoblivion.wordpress.com/wp-content/uploads/2024/04/perfil.jpg") center center no-repeat;
+  background: url("https://raw.githubusercontent.com/SuzanyLimart/suzanylimart.github.io/refs/heads/main/assets/img/perfil.jpg") center center no-repeat;
   background-size: cover;
   width: 350px; /* Defina a largura da imagem */
   height: 350px; /* Defina a altura da imagem */
